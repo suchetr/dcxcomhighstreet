@@ -1,2 +1,0 @@
-# dcxcomhighstreet
-highstreet repository
